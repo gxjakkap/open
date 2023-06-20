@@ -22,5 +22,6 @@ export default defineConfig({
       message: 'Contributing to transparency since 2023',
       copyright: 'Copyright © 2023-present <a href="https://guntxjakka.me">Jakkaphat Ch.</a>'
     }
-  }
+  },
+  cleanUrls: true
 })
